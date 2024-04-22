@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🌍, I'm Loriane</h1>
 <h3 align="center">A fullstack dev and tenacious bug solver</h3>
 
-- 🌱 Currently working on [Arcadia Solutions(2 NestJS API and 2 React Frontends)](a private repo so far)
+🌱 Currently working on [Arcadia Solutions(2 NestJS API and 2 React Frontends)](a private repo so far)
 
 👯 Last year, I learned how to code : 
   <ul>- a mobile app (Android, in JAVA), link: <a href="https://github.com/Mil0w0/cookmaster-android" >here</a></ul>
