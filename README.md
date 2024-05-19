@@ -3,10 +3,11 @@
 
 🌱 Currently working on [Arcadia Solutions(2 NestJS API and 2 React Frontends)](a private repo so far)
 
-👯 Last year, I learned how to code : 
-  <ul>- a mobile app (Android, in JAVA), link: <a href="https://github.com/Mil0w0/cookmaster-android" >here</a></ul>
+👯 Previously, I learned how to code : 
+  <ul>- a REST API to manage a fictional cinema (NestJS), link: <a href="https://github.com/Mil0w0/cinemanager" >cinemanager</a></ul>
+  <ul>- a mobile app (Android, in JAVA), link: <a href="https://github.com/Mil0w0/cookmaster-android" >cookmaster-android</a></ul>
   <ul>- a C app with a GTK4 interface and other C apps</ul>
-  <ul>- a full website with CodeIgniter4, link: <a href="https://github.com/M0UTOO/cook-master">here</a></ul>
+  <ul>- a full website with CodeIgniter4, link: <a href="https://github.com/M0UTOO/cook-master">cookmaster</a></ul>
   <ul>- a little app in Ruby to help me generate random pairs of students and send them emails for an event i co-organized</ul>
 
 <h3 align="left">Languages and Tools:</h3>
